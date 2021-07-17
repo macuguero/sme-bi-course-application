@@ -32,7 +32,7 @@
 
 #### End goal:
 
-![ex1_endGoal](https://github.com/macuguero/sme-bi-course-application/dev_macuguero/ex1.png)
+![ex1_endGoal](https://github.com/macuguero/sme-bi-course-application/blob/dev_macuguero/ex1.png)
 
 
 ## 2nd VM Exercise
@@ -68,6 +68,6 @@
 
 #### End goal:
 
-![ex2_endGoal](https://github.com/macuguero/sme-bi-course-application/dev_macuguero/ex2.png)
+![ex2_endGoal](https://github.com/macuguero/sme-bi-course-application/blob/dev_macuguero/ex2.png)
 
 
